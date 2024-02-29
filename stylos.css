@@ -1,0 +1,12 @@
+body{
+    background-color: #d5e1ef;
+}
+.container{
+text-align: center;
+background-color: #ffffff;
+
+}
+.container img{
+    width: 20%;
+    height: 20%;
+}
